@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingDriverService", "RacingDriverService\RacingDriverService.csproj", "{2F71B68B-A90E-4177-BF2D-41BDF2B76F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingClient", "RacingClient\RacingClient.csproj", "{2327E09E-8FC1-44B5-8BC0-2727B01B3411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F71B68B-A90E-4177-BF2D-41BDF2B76F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F71B68B-A90E-4177-BF2D-41BDF2B76F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F71B68B-A90E-4177-BF2D-41BDF2B76F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F71B68B-A90E-4177-BF2D-41BDF2B76F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2327E09E-8FC1-44B5-8BC0-2727B01B3411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2327E09E-8FC1-44B5-8BC0-2727B01B3411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2327E09E-8FC1-44B5-8BC0-2727B01B3411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2327E09E-8FC1-44B5-8BC0-2727B01B3411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DADA833-7FDB-40C0-B71B-FD21FDD18162}
+	EndGlobalSection
+EndGlobal
